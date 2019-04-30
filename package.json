@@ -1,5 +1,5 @@
 {
-  "name": "ghetto_pogo_battle_sim",
+  "name": "beautiful_pogo_battle_sim",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,6 +22,7 @@
     "@vue/cli-plugin-typescript": "^3.6.0",
     "@vue/cli-service": "^3.6.0",
     "lint-staged": "^8.1.5",
+    "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.4.3",
     "vue-template-compiler": "^2.5.21"
   },

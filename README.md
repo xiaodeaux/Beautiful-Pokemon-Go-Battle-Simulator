@@ -1,4 +1,4 @@
-# ghetto_pogo_battle_sim
+# beautiful_pogo_battle_sim
 
 ## Project setup
 ```
