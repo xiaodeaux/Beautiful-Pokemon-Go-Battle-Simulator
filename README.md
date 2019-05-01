@@ -1,4 +1,4 @@
-# beautiful_pogo_battle_sim
+# Beautiful Pokemon Go Battle Simulator
 
 ## Project setup
 ```
