@@ -1,4 +1,6 @@
 # Beautiful Pokemon Go Battle Simulator
+⚠**This is the beginning of the project and high unstable**⚠
+A simple calculator that can calculate damage done in Pokemon Go Battles.
 
 ## Project setup
 ```
